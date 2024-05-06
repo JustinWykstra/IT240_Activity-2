@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>My Profile Page</title>
+  </head>
+  <body>
+    <header>
+      <h1>Justin Wykstra</h1><hr>
+    </header>
+    <section>
+      <h2>About Me</h2>
+        <p>
+            <strong>Hi! I just moved here from the Marina Islands of Micronesia! My wife is from Laie, and I am from Salt Lake City.</strong>
+        </p>
+    </section>
+    <section>
+      <h5>
+        <em>My ideal weekend involves</em></h5>
+      <ul>
+        <ins>
+            <li>Scuba Diving</li>
+            <li>Boating</li>
+            <li>Nature</li>
+        </ins>
+      </ul>
+    </section>
+    <footer>
+        <em>
+            <p>Contact me at mysecretemail@go.byuh.edu</p>
+        </em>
+    </footer>
+        <a href="//byuh.instructure.com/courses/1478620/assignments/8705250?module_item_id=16595610"
+        <cite>//byuh.instructure.com/courses/1478620/assignments/8705250?module_item_id=16595610</cite
+  </body>
+</html>
